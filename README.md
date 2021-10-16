@@ -3,6 +3,7 @@
 ## Cloner le projet
 
 `git clone https://github.com/LeBonBateau/blog.git`
+`git submodule update --init --recursive`
 
 ## Pousser des modifications
 ### Publier sur prod
@@ -13,6 +14,4 @@
 `git commit -m "Ton message"`
 `git pull`
 `git push `
-
-/!\ Mot de passe nécessaire lors du `deploy` et du `push`.
 
