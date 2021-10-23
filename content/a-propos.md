@@ -1,35 +1,21 @@
 ---
 title: "About"
 date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
+description: "découvrez la démarche le-bon-bateau et ce qui nous motive dans ce projet"
+image: "images/posts/bateau-a-propos.jpg"
+
 ---
 
-### Hello, I’m **John Doe**
+La démarche Le-Bon-Bateau, c'est la volonté d'offrir un espace d'échange et de partage autour de ce que nous considérons comme étant l'avenir du bateau et de la plaisance : l'électrique.
 
-Creative UI/UX desingerr how loves to craft beautiful that satisfy users needs the product. A best idea
-generate for the agency complay smart and elegant design When, while the lovely valley teems with vapour
-around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a
-afew stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling
-stream; and, as I lie close to the earth, a thousand unknown plants are noticed by me.
+Parce que c'est un sujet aussi important qu'encore flou, nous avons voulu casser les barrières et partager au maximum notre expérience et expertise sur le sujet. L'objectif est de référencer sur ce site toute l'actualité sur le sujet de la plaisance de demain autour des moteurs électriques et de notre empreinte écologique lorsque nous faisons du bateau.
 
-I hear the buzz
-of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects
-and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath of that
-universal love which bears and sustains.
+Parce que profiter de la mer doit aussi et avant tout être la respecter, c'est pourquoi nous avons crée Le-Bon-Bateau.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem deserunt tempora doloribus non, voluptas
-dolor? Consequuntur et ad officiis iste, vero natus possimus labore veritatis a eius doloremque. Optio amet
-quis harum nulla vitae repellat officiis veniam accusamus error hic deleniti in, quas est illum cum natus
-neque possimus delectus dolore ipsam. Pariatur, ad molestias alias voluptas iusto quam debitis beatae sint
-similique velit, dicta eos dolorum cumque mollitia officia iure labore voluptatibus. Non at sequi, natus
-dolores, cum accusamus repudiandae hic blanditiis ipsum possimus qui assumenda quaerat optio ab molestias ipsa
-iste molestiae dignissimos. Reprehenderit quod totam nostrum nihil.
+Sans prétention aucune ni experts particuliers du sujet, nous sommes friands d'accueillir en notre sein des motivés du projet et c'est pourquoi vous pouvez nous contacter à tout moment l'aventure et monter à bord!
 
+Si vous êtes interessés, vous pouvez aussi retrouver nos autres projets ici :
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem deserunt tempora doloribus non, voluptas
-dolor? Consequuntur et ad officiis iste, vero natus possimus labore veritatis a eius doloremque. Optio amet
-quis harum nulla vitae repellat officiis veniam accusamus error hic deleniti in, quas est illum cum natus
-neque possimus delectus dolore ipsam. Pariatur, ad molestias alias voluptas iusto quam debitis beatae sint
-similique velit, dicta eos dolorum cumque mollitia officia iure labore voluptatibus. Non at sequi, natus
-dolores, cum accusamus repudiandae hic blanditiis ipsum possimus qui assumenda quaerat optio ab molestias ipsa
-iste molestiae dignissimos. Reprehenderit quod totam nostrum nihil.
+[Notre plateforme de producteurs locaux](https://www.localementbon.com/fr)
+
+[Notre blog de voyage](https://partir-loin.fr/)
