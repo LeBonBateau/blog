@@ -10,7 +10,7 @@ categories:
 
 C'est une actualité de septembre que nous souhaitions partager avec vous aujourd'hui. Une information toute droit venue d'un compté de Taïwan où des défenseurs de l'environnement ont cherché à mettre leurs passions du bateau électrique au service de la préservation de la faune maritime. En effet, après des années de travail, la jeune équipe a réussi à concevoir cet OFNI électrique, guidé à distance et dont la mission principale est de nettoyer (à son échelle) les eaux des environs du port de Taïwan dans un premier temps avant de (espérons-le) étendre son champ d'activités à de plus larges horizons.
 
-![test](images/posts/azure-fighter-low-quality.jpeg)
+![test](/images/posts/azur-fighter-indoor.jpg)
 *(source : euronews.com)*
 
 > Depuis plusieurs années maintenant, Taïwan tente d'accélérer sur sa protection et la conservation de son environnement marin. Les autorités ont ainsi interdit définitivement le prélèvement de coraux.
@@ -30,5 +30,5 @@ C'est le CEO de l'entreprise qui porte le projet et qui se porte sur la préserv
 
 L'objectif de l'entreprise est aussi d'exporter à moyen terme son prototype partout dans le monde. C'est aussi une volonté d'accélération de la visibilité de ce genre de projet, et nous chez Le-Bon-Bateau, on dit oui.
 
-![test](images/posts/azur-fighter-indoor.jpg)
+![test](/images/posts/azure-fighter-low-quality.jpeg)
 *(source : youtube.com/nocomment.com)*

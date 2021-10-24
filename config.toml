@@ -78,9 +78,9 @@ author = "Mathieu"
 author_image = "images/theme/author.png"
 bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
 # Contact info
-mobile = "+90 000 333 22"
-email = "exmaple@ymail.com"
-address = "6 rip carl Avenue CA 90733"
+mobile = "Directement via notre formulaire"
+email = "https://le-bon-bateau.fr/contact/"
+address = "Siège social basé en France :=)"
 # Contact Form Action
 contact_form_action = "https://formspree.io/f/meqvvakl"
 # copyright
@@ -97,18 +97,7 @@ enable = true
 expire_days = 2
 
 # social site
-[[params.social]]
-icon = "ti-facebook"
-link = "#"
 
 [[params.social]]
 icon = "ti-twitter-alt"
-link = "#"
-
-[[params.social]]
-icon = "ti-linkedin"
-link = "#"
-
-[[params.social]]
-icon = "ti-github"
-link = "#"
+link = "https://twitter.com/Lebonbateau_"

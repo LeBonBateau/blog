@@ -47,7 +47,7 @@ Le poids relativement est impressionnant et d'environ 4800 kilos mais c'est ce q
 
 Si le poids est évidemment très élevé, l'un des avantages de la motorisation électrique prend tout son sens avec un système de propulsion qui comprend un nombre faible de pièce et une maintenance réduite. Évident lorsque vous écartez les contraintes de démarreurs, allumages à bobines et pompes a carburant. Une batterie auxiliaire est disponible en cas d'incident.
 
-![sarvo37-indoor](/static/images/posts/sarvo-37-side.jpeg)
+![sarvo37-indoor](/images/posts/sarvo37-indoor.jpeg)
 *(source : sarvo-marine.com)*
 
 ## Un confort porté par des matières recyclées
