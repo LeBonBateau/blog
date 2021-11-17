@@ -2,7 +2,7 @@
 title: "Le Azure Fighter - Un bateau électrique pour l'environnement"
 date: 2021-10-20
 description: "Découvrez le Azure Fighter, un bateau électrique développé par un groupe d'activistes de Taïwan qui lutte pour la protection de l'environnement local"
-type: "featured"
+type: "post"
 image: "images/posts/azure-fighter-aspirateur.jpeg"
 categories: 
   - "Actualités"

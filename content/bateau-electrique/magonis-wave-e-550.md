@@ -2,7 +2,7 @@
 title: "Magonis Wave e-550 - Un bateau électrique qui prône la modernité"
 date: 2021-10-24
 description: "Suivez notre guide du Magonis Wave e-550, le dernier né de Magonis qui nous propose ici un superbe bateau pratique, électrique et moderne"
-type: "featured"
+type: "post"
 image: "images/posts/magonis-navigation.jpg"
 categories: 
   - "Bateau électrique"
