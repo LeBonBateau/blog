@@ -12,6 +12,8 @@ git checkout -- .
 
 git checkout main
 
+rm -rf *
+
 cd ..
 
 # Build the project. 
