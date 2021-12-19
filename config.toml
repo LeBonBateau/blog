@@ -1,6 +1,6 @@
 # default config
 baseurl = "https://le-bon-bateau.fr"
-languageCode = "en-us"
+languageCode = "fr"
 title = "Le Bon Bateau"
 theme = "parsa-hugo"
 summaryLength = "10"
@@ -101,3 +101,7 @@ expire_days = 2
 [[params.social]]
 icon = "ti-twitter-alt"
 link = "https://twitter.com/Lebonbateau_"
+
+[[params.social]]
+icon = "ti-instagram-alt"
+link = "https://www.instagram.com/lebonbateau/"
