@@ -55,3 +55,5 @@ Fait notable, une cabine est disponible sur l'Orphie 29 et pour un électrique, 
 *(source : www.orphieboats.com)*
 
 Si vous voulez profiter et tester l'Orphie 29, dirigez-vous directement à Hyères pour des croisières à la journée (comptez 1300 euros la journée). Le constructeur prévoit évidemment de surfer sur son succès et d’étendre son activité avec notamment les Antilles affichées sur son site internet. Chez le-bon-bateau, on est plutôt impatient de la suite.
+
+Tant que vous êtes encore avec nous, passez jeter un coup d'oeil à notre coup de coeur du salon nautique, le [Pulse 63](https://le-bon-bateau.fr/bateau-electrique/pulse63/)

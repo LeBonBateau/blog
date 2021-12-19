@@ -72,3 +72,4 @@ Les matériaux sont durables, et le chantier le fait dans une dynamique (que nou
 Avec plus de 25 années d'expérience et un public qui ne cesse de s'agrandir, avec le PULSE 63, RS Electric nous prouve ici que c'est acteur fort du bateau électrique aux ambitions affichées. Il faudra continuer à compter sur ce chantier naval dans les années à venir. Nous continuerons à garder un œil appuyé sur eux chez le-bon-bateau.
 
 
+Aprés cet article, venez jeter un coup d'oeil au robuste moteur [Harmo Yamaha](https://le-bon-bateau.fr/accessoire-electrique/harmo-yamaha/)

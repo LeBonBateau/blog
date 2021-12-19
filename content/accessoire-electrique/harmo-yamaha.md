@@ -48,4 +48,4 @@ C'est un message très fort qu'envoie ici Yamaha au marché du moteur électriqu
 ![Harmo-Yamaha](/images/posts/harmo-arriere.jpeg)
 *(source : https://www.yamaha-motor.eu/)*
 
-
+Votre lecture n'est peut etre pas complétement finie, venez découvrir avec nous le [Magonis Wave e 550](https://le-bon-bateau.fr/bateau-electrique/magonis-wave-e-550/).

@@ -79,3 +79,5 @@ La manette elle-même propose un écran disposant de toutes les informations pri
 Enfin, dernier détail qui n'en est presque plus un, le bateau propose un système de rechargement sans fil pour votre Smartphone. Un système novateur qui permet à la fois de garder votre téléphone dans un espace sécurisé mais aussi et surtout ne plus avoir besoin d'utiliser vos câbles sur votre bateau. Dites bonjour à l'avenir du confort de navigation ici.
 
 Vous l'aurez compris, nous sommes convaincus ici de la qualité du Wave-e-550 qui propose une vraie expérience disruptive sur le marché. Nous garderons un œil proche sur les retours des premiers utilisateurs de ce bateau électrique mais convaincu par le bel avenir de ce bateau électrique et de son jeune chantier.
+
+Maintenant que vous êtes à la fin de cet article, jetez un coup d'oeil à celui sur le beau [Sarvo 37](https://le-bon-bateau.fr/bateau-electrique/sarvo37/).

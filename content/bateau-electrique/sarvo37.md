@@ -65,3 +65,5 @@ Au programme de son intérieur :
 Alors oui, c'est minimaliste mais vous n'êtes pas sur un hauturier ici. 
 
 Un système de LED moderne et complet permet une customisation de l'éclairage à l'intérieur du bateau. Évidemment alimenté par la batterie (monstrueuse) du Sarvo 37. L'intégralité de l'accastillage est en plastique recyclé.
+
+N'hésitez pas à découvrir notre précèdent article sur le surprenant bateau nettoyeur le [Azure Fighter](https://le-bon-bateau.fr/actualite/azure-fighter/).
