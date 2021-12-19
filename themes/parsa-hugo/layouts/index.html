@@ -60,6 +60,20 @@
 <!-- blog post -->
 <section class="section">
   <div class="container">
+    <div class="row justify-content-center mb-5">
+      <div class="col-12">
+        <h1 class="text-center">
+          Le nouveau guide du bateau électrique
+        </h1>
+        <div class="row justify-content-center">
+            <div class="col-12 col-md-10 cl-lg-8">
+                <p class="text-center">
+                  Amoureux de la mer ou simple curieux, découvrez avec nous toute l’actualité et tous les derniers essais des bateaux 100% électrique de demain.
+                </p>
+            </div>
+        </div>
+      </div>
+    </div>
     {{ $paginator := .Paginate (where site.RegularPages "Type" "post") }}
     {{ if eq site.Params.layout "1" }}
     <div class="row masonry-container">

@@ -61,14 +61,14 @@ name = "Contact"
 url = "contact"
 weight = 3
 
-# deult parameter
+# default parameter
 [params]
 logo = "images/theme/logo.png"
 home = "Accueil"
 # theme layout ( two layout is available, "1" and "2" )
 layout = "1"
 # Meta data
-description = "This is meta description"
+description = "Amoureux de la mer ou simple curieux, découvrez avec nous toute l’actualité et tous les derniers essais des bateaux 100% électrique de demain."
 # Preloader
 preloader = true
 # search
@@ -99,9 +99,9 @@ expire_days = 2
 # social site
 
 [[params.social]]
-icon = "ti-twitter-alt"
+icon = "ti-twitter"
 link = "https://twitter.com/Lebonbateau_"
 
 [[params.social]]
-icon = "ti-instagram-alt"
+icon = "ti-instagram"
 link = "https://www.instagram.com/lebonbateau/"
