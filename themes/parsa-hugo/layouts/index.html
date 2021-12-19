@@ -60,6 +60,20 @@
 <!-- blog post -->
 <section class="section">
   <div class="container">
+    <div class="row justify-content-center mb-5">
+      <div class="col-12">
+        <h1 class="text-center">
+            Découvrir le monde à travers nos guides de voyage
+        </h1>
+        <div class="row justify-content-center">
+            <div class="col-12 col-md-10 cl-lg-8">
+                <p class="text-center">
+                    Partir Loin vous embarque dans un voyage virtuel unique grâce à ses guides de voyage uniques par son équipe d'amoureux des découvertes
+                </p>
+            </div>
+        </div>
+      </div>
+    </div>
     {{ $paginator := .Paginate (where site.RegularPages "Type" "post") }}
     {{ if eq site.Params.layout "1" }}
     <div class="row masonry-container">

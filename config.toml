@@ -99,9 +99,9 @@ expire_days = 2
 # social site
 
 [[params.social]]
-icon = "ti-twitter-alt"
+icon = "ti-twitter"
 link = "https://twitter.com/Lebonbateau_"
 
 [[params.social]]
-icon = "ti-instagram-alt"
+icon = "ti-instagram"
 link = "https://www.instagram.com/lebonbateau/"
