@@ -1,7 +1,7 @@
 # default config
 baseurl = "https://le-bon-bateau.fr"
 languageCode = "fr"
-title = "Le Bon Bateau"
+title = "Le Bon Bateau - Tout savoir sur le bateau électrique de demain"
 theme = "parsa-hugo"
 summaryLength = "10"
 paginate = 6
